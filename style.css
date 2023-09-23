@@ -1,0 +1,36 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: var(--bs-body-bg);
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+  nav {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 20px;
+  }
+  
+  #about {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  
+  #project {
+    background-color: #e2edff;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  
+  #contact {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  
+  footer {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 20px;
+    background-color: #0d6efd;
+    color: aliceblue;
+    text-align: center;
+    padding-bottom: 5rem;
+  }
+  
